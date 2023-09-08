@@ -6,6 +6,6 @@ Get the latest builds for:
 
 - MacOSX [zip](https://desktop-update.tana.inc/download/darwin) or [dmg](https://desktop-update.tana.inc/download/dmg)
 - Linux [rpm](https://desktop-update.tana.inc/download/deb) or [deb](https://desktop-update.tana.inc/download/rpm)
-- Windows (coming soon)
+- Windows [exe](https://desktop-update.tana.inc/download/exe)
 
 The app will auto-update when a new version is available.
